@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Traffic Spatiotemporal Data Modeling"
   location         : "China"
-  employer         : "Beijing University of Posts \\and Telecommunications"
+  employer         : "Beijing University of Posts 
+  > and Telecommunications"
   uri              : # URL
   email            : "xuchen@bupt.edu.cn" 
 
