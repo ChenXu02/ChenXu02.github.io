@@ -22,12 +22,11 @@ repository               : "ChenXu02/ChenXu02.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "   Chen Xu"
+  name             : "Chen Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Traffic Spatiotemporal Data Modeling"
+  bio              : "Spatiotemporal Data Modeling"
   location         : "China"
-  employer         : "Beijing University of Posts 
-  > and Telecommunications"
+  employer         : "Beijing University of Posts and Telecommunications"
   uri              : # URL
   email            : "xuchen@bupt.edu.cn" 
 
@@ -43,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ChenXu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -65,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : ""  # Replace this with your X / Twitter handle
+  twitter          : # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
