@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Chen Xu GitHub Pages"
-author_profile: true
+title: "Chen Xu"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
