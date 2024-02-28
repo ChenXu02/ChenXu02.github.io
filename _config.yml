@@ -22,20 +22,20 @@ repository               : "ChenXu02/ChenXu02.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chen Xu"
+  name             : "   Chen Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Canada"
-  employer         : "McGill University"
+  bio              : "Traffic Spatiotemporal Data Modeling"
+  location         : "China"
+  employer         : "Beijing University of Posts and Telecommunications"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xuchen@bupt.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : ""
+  pubmed           : ""
   researchgate     : # URL
 
   # Repositories and software development
