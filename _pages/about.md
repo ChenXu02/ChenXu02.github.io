@@ -9,9 +9,11 @@ redirect_from:
 
 Hi there!
 
+
+
 About me
 ------
-chenxu
+I am Chen Xu (徐琛), currently working on developing data-driven methods for multi-variate time series forecasting, anomaly detection, and imputation. The typical scenarios involved include traffic prediction, travel time estimation, and abnormal detection of power batteries. 
 
 Selected News
 ------
