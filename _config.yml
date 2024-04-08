@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chen Xu"
+title                    : "ChenXu Homepage"
 title_separator          : "-"
 name                     : &name "Chen Xu"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Chen Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate<br> in the Department of Information<br> and Communication Engineering,<br> Beijing University of Posts<br> and Telecommunications."
+  bio              : "Ph.D. candidate<br> in the Department of Information and Communication Engineering,<br> Beijing University of Posts<br> and Telecommunications."
   location         : "China"
   employer         : "Beijing University of Posts<br>     and Telecommunications"
   uri              : # URL
